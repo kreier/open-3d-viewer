@@ -1,1 +1,5 @@
+# Generic from 2009
 *.pyc
+
+# Synology Diskstation
+.DS_Store
